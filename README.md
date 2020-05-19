@@ -4,7 +4,7 @@ Aplicação desenvolvida no terceiro módulo do curso React.js Ninja - React Com
 
 Esta aplicação consiste num gerador de contadores que permite ao usuário gerenciar os mesmos de forma individual, seja excluindo, incrementando ou decrementando.<strong><i> A aplicação é desenvolvida utilizando a biblioteca Redux</i></strong>, foco do terceiro módulo do curso, e conta ainda com a implementação de histórias para os componentes através do Storybook, a implemntação do metódo actions creators e do método TDD para testes utilizando o Jest.
 
-
+<br>
 <p align="center">
   <img width="900px" src="https://github.com/ChristopherHauschild/counters-redux-reactninja/blob/master/CRDX.gif?raw=true" />
  </p>
