@@ -22,7 +22,7 @@ Esta aplicação consiste num gerador de contadores que permite ao usuário gere
 
 ## Instalação: :rocket:
 
-- Clone este repositório: `https://github.com/ChristopherHauschild/GitHubApp-React.js/.git`;
+- Clone este repositório: `https://github.com/ChristopherHauschild/counters-redux-reactninja/.git`;
 - Remova o diretório `.git`;
 - Instale as dependências: `npm i` ou `yarn`;
 - Rode `npm start` ou `yarn start` para desenvolvimento em `http://localhost:3000`
